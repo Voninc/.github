@@ -1,6 +1,6 @@
 # Voninc 🚀
 
-Welcome to Voninc ! We are a dynamic company that thrives on both open-source and closed-source projects. Whether you're a seasoned developer or a passionate newcomer, you can join our community for free by creating an issue in the "Become-A-Member" repository.
+Welcome to Voninc ! We are a dynamic company that thrives on both open-source and closed-source projects. Whether you're a seasoned developer or a passionate newcomer, you can join our community for free by [creating an issue](https://github.com/Voninc/Become-A-Member/issues/new/choose) in the [Become-A-Member repository.](https://github.com/Voninc/Become-A-Member) 
 
 ## About Us ℹ️
 
