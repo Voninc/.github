@@ -50,7 +50,7 @@ If you have any questions or would like to learn more about Voninc, feel free to
         alt="vacaramin"
         height="45"
         /></a>
-    <a href="mailto:vacaramin86@gmail.com" target="_blank"
+    <a href="mailto:waqar@voninc.tech" target="_blank"
       ><img
         align="center"
         src="https://static.vecteezy.com/system/resources/previews/009/973/213/non_2x/email-and-mail-icon-sign-symbol-design-free-png.png"
